@@ -25,7 +25,7 @@ dev-account.env
 build/release
 
 # parcel config file
-.env.local
 
 out
 dist
+config.bat
